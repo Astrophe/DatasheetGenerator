@@ -4,3 +4,4 @@
 1. Handle error where program hangs with searches with long names, forcing ctrl-c user action to proceed
 2. Package program for less user interaction/cmds
 3. Point to TOC template rather than requiring user to enter in pathName
+4. Test
